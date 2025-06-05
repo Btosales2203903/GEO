@@ -5,5 +5,6 @@ Geração de mapas temáticos usando Python (GeoPandas, Matplotlib) para represe
 Habilidades envolvidas: Python, geoprocessamento, mapas temáticos, visualização com Matplotlib
 Aplicação real: Painel técnico do CAR e relatórios para a gestão ambiental
 #### 1. Mapa Região araguaia
-![Minha Imagem](https://github.com/Btosales2203903/Dashboard/issues/3)
+![Minha Imagem](https://private-user-images.githubusercontent.com/99224525/451967035-14a245e8-40d3-4576-b4ed-3c56d2ede2d2.png)
+
 
